@@ -7,7 +7,7 @@ package pct;
 
 /**
  *
- * @author Carlos
+ * @author Elias
  */
 public class EstudanteInfo extends Estudante{
     private double infoBasico;
